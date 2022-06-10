@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @GB256TEK
+- 👋 Hi, I’m @GB256TECH
 - 👀 I’m interested in ETHICAL HACKING
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on with anyone 
 - 📫 How to reach me Whatsapp +256753493487
+- Other contacts whatsapp +256708980689
                      Telegram https://t.me/joinchat/52QKq7TuZ5c1MmY0
 
 <!---
