@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GBTECH25
-- 👀 I’m interested in ETHICAL HACKING
+- 👋 Hi, I’m @GBMOBITECH
+- 👀 I’m interested in Andorid App Development
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on with anyone 
-- 📫 How to reach me Whatsapp +256753493487
+- 📫 How to reach me Whatsapp +256702529090
 - Other contacts whatsapp +256708980689
                      Telegram https://t.me/joinchat/52QKq7TuZ5c1MmY0
 
